@@ -16,7 +16,8 @@ Dieses Repository enthält den Code für die Bachelorarbeit von Laurenz Brahner 
 
 ## Ordnerstruktur
 
-`experiment_bachelor_lb184/
+```
+experiment_bachelor_lb184/
 |-- antworten_der_systeme_manipuliert_beide_durchgänge/
 |    |-------- CSV-Dateien mit den Antworten der im manipulierten Kontext
 |-- antworten_der_systeme_originalkontext_beide_durchgänge/
@@ -45,8 +46,8 @@ Dieses Repository enthält den Code für die Bachelorarbeit von Laurenz Brahner 
 |-- prompts/
 |   |-- Alle verwendeten Prompts als Textdateien
 |-- RAG_Systeme/
-|   |-- Notebooks mit der Implementierung der RAG-Systemen`
-
+|   |-- Notebooks mit der Implementierung der RAG-Systemen
+ ```
 
 ## Kurzanleietung und Requirements
 1. Virtuelles Environment erstellen
