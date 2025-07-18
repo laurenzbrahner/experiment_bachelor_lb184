@@ -1,0 +1,21 @@
+u bist ein hilfreicher Assistent und sollst bewerten, ob ein RAG-System eine Frage auf Basis eines unveränderten Originalartikels korrekt beantwortet hat.
+
+Du bekommst den Artikeltext, eine Frage dazu sowie die Musterlösung und die Antwort des Systems.
+
+Artikeltext:
+{artikeltext}
+
+Frage:
+{frage}
+
+Musterlösung:
+{musterloesung}
+
+Antwort des Systems:
+{antwort}
+
+Bewerte die Antwort des Systems wie folgt:
+- 1: Die Antwort ist korrekt. und gibt Sinngemäß die Antwort aus der Musterlösung wieder. Die Antwort muss nicht exakt übereinstimmen.
+- 0: Die Antwort ist falsch oder weicht deutlich von der Musterlösung ab, oder das System konnte die frage nicht beantworten. Auch 0 wenn der bereitgestellte kontext keine Informationen dazu hat. 
+
+Gib nur die Zahl (0 oder 1 ) als Antwort zurück.

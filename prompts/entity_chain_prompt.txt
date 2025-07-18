@@ -1,0 +1,5 @@
+Extrahiere alle Entitäten aus der folgenden Frage. Gebe nur die Namen der Entitäten als kommaseparierte Liste zurück.
+
+Frage: {frage}
+
+Entities:

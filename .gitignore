@@ -1,0 +1,6 @@
+# Umgebungsdateien
+.env
+.env.*
+
+# Virtuelle Umgebung
+.venv/

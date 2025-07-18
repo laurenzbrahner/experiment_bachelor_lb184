@@ -1,0 +1,9 @@
+**Fragen:**
+1. Welche Maßnahmen hat die US-Regierung gegen den russischen Staatssender RT als Reaktion auf die Wahlbeeinflussung ergriffen?
+2. Wie hat Justizminister Merrick Garland die Rolle der russischen Medien bei der Beeinflussung der US-Wahlen beschrieben?
+3. Welche Tools wurden laut Finanzministerium von staatlich unterstützten Akteuren zur Untergrabung des Vertrauens in US-Wahlprozesse verwendet?
+
+**Musterlösungen:**
+1. Die US-Regierung hat Sanktionen erlassen, strafrechtliche Anklagen erhoben und die Beschlagnahme von Internet-Domains angeordnet.
+2. Merrick Garland hat beschrieben, dass der Kreml ahnungslose Influencer aus den USA dazu gebracht hat, die eigene Propaganda zu übernehmen.
+3. Laut Finanzministerium wurden Künstliche Intelligenz, Deep Fakes und gezielte Desinformationen verwendet, um das Vertrauen in die Prozesse und Institutionen rund um US-Wahlen zu untergraben.

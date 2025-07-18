@@ -1,0 +1,11 @@
+**Fragen:**
+
+1. Wie viele Prozent der Befragten sahen laut Ipsos das Land Mitte Oktober auf dem falschen Weg?
+2. Welche Herausforderungen gibt es laut dem Originalartikel bezüglich der Vorhersage eines Wahlergebnisses durch Umfragen?
+3. In welchem Bundesstaat wurde ein signifikanter Umfrageunterschied zur tatsächlichen Wahl in 2016 festgestellt?
+
+**Musterlösungen:**
+
+1. 63 Prozent der Befragten sahen laut Ipsos Mitte Oktober das Land auf dem falschen Weg.
+2. Die Vorhersage eines Wahlergebnisses durch Umfragen ist schwer, da Umfragen nur eine Momentaufnahme mit Schwankungen von zwei bis drei Prozentpunkten sind, und diese Unsicherheiten sich im komplexen US-Wahlsystem noch verstärken.
+3. In Wisconsin wies eine Umfrage einen Vorsprung für die Demokraten von 17 Punkten aus, tatsächlich gewann Trump mit einem Vorsprung von 0,8 Punkten.
