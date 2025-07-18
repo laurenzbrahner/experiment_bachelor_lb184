@@ -67,7 +67,8 @@ experiment_bachelor_lb184/
 
 ## Quellen 
 
-`Langchain. (o. D.). LangChain Documentation: Introduction. LangChain. Abgerufen am 14. Mai 2025, von https://python.langchain.com/docs/introduction/
+```
+Langchain. (o. D.). LangChain Documentation: Introduction. LangChain. Abgerufen am 14. Mai 2025, von https://python.langchain.com/docs/introduction/
 Neo4j. (o. D.). Neo4j Aura Documentation. Abgerufen am 26. Mai 2025, von https://neo4j.com/docs/aura/
 Neo4j. (2025). Neo4j LLM Knowledge Graph Builder. https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/
 OpenAI. (2022). Text-embedding-ada-002. Abgerufen am 6. Juni 2025, von https://platform.openai.com/docs/models/text-embedding-ada-002
@@ -76,4 +77,6 @@ Pandas. (2025, 7. Juli). Pandas Documentation. Abgerufen am 11. Juli 2025, von h
 Python. (2023). Python 3.12.0 Documentation. Abgerufen am 5. Mai 2025, von https://docs.python.org/release/3.12.0/
 Jupyter. (o. D.). Project Jupyter Documentation. Abgerufen am 12. Mai 2025, von https://docs.jupyter.org/en/latest/
 SciPy. (o. D.). chi2_contingency. Abgerufen am 1. Juli 2025, von https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chi2_contingency.html
-sh-how. (2024). enhancing_rag_with_graph.ipynb. GitHub. Abgerufen am 7. Mai 2025, von https://github.com/Coding-Crashkurse/GraphRAG-with-Llama-3.1/blob/main/enhancing_rag_with_graph.ipynb`
+sh-how. (2024). enhancing_rag_with_graph.ipynb. GitHub. Abgerufen am 7. Mai 2025, von https://github.com/Coding-Crashkurse/GraphRAG-with-Llama-3.1/blob/main/enhancing_rag_with_graph.ipynb
+
+```
