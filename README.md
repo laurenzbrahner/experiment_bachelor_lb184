@@ -11,8 +11,12 @@
 
 ## Inhalt des Repositories
 
-Dieses Repository enthält den Code für die Bachelorarbeit von Laurenz Brahner (lb184).
+Dieses Repository enthält den vollständigen Code zur Bachelorarbeit von Laurenz Brahner (lb184). Zusätzlich umfasst es die Datengrundlage des Experiments in Form der extrahierten Nachrichtenartikel (Tagesschau, 2024).
 
+Dieses Repository enthält den Code für die Bachelorarbeit von Laurenz Brahner (lb184). Des Weiteren ist die Datengrundlage des Experiments in Form der extrahierten Nachrichtenartikel in diesem vorhanden (Tagesschau, 2024).
+
+Alle Projektschritte sind enthalten, von der Manipulation der Artikel über die Entwicklung der Fragen und Systeme bis hin zur Evaluation und Auswertung. Eine detaillierte Beschreibung des Ablaufs befindet sich
+im Konzeptionsteil der Thesis.
 
 ## Ordnerstruktur
 
@@ -111,5 +115,6 @@ Jupyter. (o. D.). Project Jupyter Documentation. Abgerufen am 12. Mai 2025, von
 SciPy. (o. D.). chi2_contingency. Abgerufen am 1. Juli 2025, von https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chi2_contingency.html
 
 sh-how. (2024). enhancing_rag_with_graph.ipynb. GitHub. Abgerufen am 7. Mai 2025, von https://github.com/Coding-Crashkurse/GraphRAG-with-Llama-3.1/blob/main/enhancing_rag_with_graph.ipynb
+Tagesschau. (2024). US-Wahl 2024. Abgerufen am 4. Mai 2025, von https://www.tagesschau.de/ausland/uswahl
 
 ```
